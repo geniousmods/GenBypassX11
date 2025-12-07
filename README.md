@@ -121,7 +121,7 @@ Libre uso — no venta comercial sin permiso.
 
 ## 👤 Créditos
 
-Proyecto creado por **Esteban Castro**  
+Proyecto creado por **Geniousmods**  
 🔹 GenLiteX / GenBypassX11 — Colombia 🇨🇴 2025
 
 ```
